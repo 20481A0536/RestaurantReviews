@@ -1,8 +1,9 @@
-**Restaurant Reviews Application
-**
+Restaurant Reviews Application
 
-Project Overview: 
-This project is a Spring Boot application for managing and reviewing restaurants. It provides a RESTful API to handle CRUD operations for restaurants and reviews. The application uses Spring Data JPA to interact with a database and offers endpoints for adding, updating, retrieving, and deleting restaurants and their reviews.
+Project Overview
+
+The Restaurant Reviews Application is a Spring Boot project designed to manage restaurants and their associated reviews. It provides a RESTful API that supports CRUD operations for both restaurants and reviews, leveraging Spring Data JPA for seamless interaction with a database.
+
 
 Technologies Used
 
